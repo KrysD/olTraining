@@ -1,6 +1,6 @@
 ---
   title: "Open Layer 3 map training"
-  author: ChristopheD
+  author: KrysD
   date: january 18, 2016
 output:
   html_document:
