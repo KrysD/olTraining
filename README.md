@@ -1,5 +1,5 @@
 ---
-  title: "Test html inside readme"
+  title: "Open Layer 3 map training"
   author: ChristopheD
   date: january 18, 2016
 output:
